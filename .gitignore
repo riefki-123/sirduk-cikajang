@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+.vercel
+dist
+
+# system
+.DS_Store
+.env
